@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV4 Hockey">
+    <display-name lang="sv">TV4 Hockey</display-name>
+    <icon src="https://new.static.tv.nu/227355459" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sportkanalen">
+    <display-name lang="sv">TV4 Sportkanalen</display-name>
+    <icon src="https://new.static.tv.nu/227353196" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 1">
+    <display-name lang="sv">TV4 Sport Live 1</display-name>
+    <icon src="https://new.static.tv.nu/227356274" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 2">
+    <display-name lang="sv">TV4 Sport Live 2</display-name>
+    <icon src="https://new.static.tv.nu/227356781" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 3">
+    <display-name lang="sv">TV4 Sport Live 3</display-name>
+    <icon src="https://new.static.tv.nu/227360877" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="TV4 Sport Live 4">
+    <display-name lang="sv">TV4 Sport Live 4</display-name>
+    <icon src="https://new.static.tv.nu/227361602" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport 1">
+    <display-name lang="sv">V Sport 1</display-name>
+    <icon src="https://new.static.tv.nu/68084424" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Vinter">
+    <display-name lang="sv">V Sport Vinter</display-name>
+    <icon src="https://new.static.tv.nu/111379424" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="SF-Kanalen">
+    <display-name lang="sv">SF-Kanalen</display-name>
+    <icon src="https://new.static.tv.nu/59995595" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Viasat Sport HD">
+    <display-name lang="sv">Viasat Sport HD</display-name>
+    <icon src="https://new.static.tv.nu/19402405" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Ultra HD">
+    <display-name lang="sv">V Sport Ultra HD</display-name>
+    <icon src="https://new.static.tv.nu/68084420" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Extra">
+    <display-name lang="sv">V Sport Extra</display-name>
+    <icon src="https://new.static.tv.nu/68084425" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 1">
+    <display-name lang="sv">Discovery+ Extra 1</display-name>
+    <icon src="https://new.static.tv.nu/104138351" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 2">
+    <display-name lang="sv">Discovery+ Extra 2</display-name>
+    <icon src="https://new.static.tv.nu/104138342" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 3">
+    <display-name lang="sv">Discovery+ Extra 3</display-name>
+    <icon src="https://new.static.tv.nu/109440802" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 4">
+    <display-name lang="sv">Discovery+ Extra 4</display-name>
+    <icon src="https://new.static.tv.nu/104138356" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 5">
+    <display-name lang="sv">Discovery+ Extra 5</display-name>
+    <icon src="https://new.static.tv.nu/104138347" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 6">
+    <display-name lang="sv">Discovery+ Extra 6</display-name>
+    <icon src="https://new.static.tv.nu/104138333" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 7">
+    <display-name lang="sv">Discovery+ Extra 7</display-name>
+    <icon src="https://new.static.tv.nu/104138338" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="Discovery+ Extra 8">
+    <display-name lang="sv">Discovery+ Extra 8</display-name>
+    <icon src="https://new.static.tv.nu/104138344" />
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Live 1">
+    <display-name lang="sv">V Sport Live 1</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Live 3">
+    <display-name lang="sv">V Sport Live 3</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Live 2">
+    <display-name lang="sv">V Sport Live 2</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Live 5">
+    <display-name lang="sv">V Sport Live 5</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="V Sport Live 4">
+    <display-name lang="sv">V Sport Live 4</display-name>
+    <url>http://www.tv.nu</url>
+  </channel>
+  <channel id="blue Sport 1">
+    <display-name lang="de">blue Sport 1</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 2">
+    <display-name lang="de">blue Sport 2</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 3">
+    <display-name lang="de">blue Sport 3</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 4">
+    <display-name lang="de">blue Sport 4</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 5">
+    <display-name lang="de">blue Sport 5</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 6">
+    <display-name lang="de">blue Sport 6</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 7">
+    <display-name lang="de">blue Sport 7</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 8">
+    <display-name lang="de">blue Sport 8</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 9">
+    <display-name lang="de">blue Sport 9</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 10">
+    <display-name lang="de">blue Sport 10</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 11">
+    <display-name lang="de">blue Sport 11</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 12">
+    <display-name lang="de">blue Sport 12</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 13">
+    <display-name lang="de">blue Sport 13</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 14">
+    <display-name lang="de">blue Sport 14</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 15">
+    <display-name lang="de">blue Sport 15</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 16">
+    <display-name lang="de">blue Sport 16</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 17">
+    <display-name lang="de">blue Sport 17</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 18">
+    <display-name lang="de">blue Sport 18</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 19">
+    <display-name lang="de">blue Sport 19</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 20">
+    <display-name lang="de">blue Sport 20</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 21">
+    <display-name lang="de">blue Sport 21</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 22">
+    <display-name lang="de">blue Sport 22</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 23">
+    <display-name lang="de">blue Sport 23</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 24">
+    <display-name lang="de">blue Sport 24</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 25">
+    <display-name lang="de">blue Sport 25</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 26">
+    <display-name lang="de">blue Sport 26</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 27">
+    <display-name lang="de">blue Sport 27</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 28">
+    <display-name lang="de">blue Sport 28</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 29">
+    <display-name lang="de">blue Sport 29</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 30">
+    <display-name lang="de">blue Sport 30</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 31">
+    <display-name lang="de">blue Sport 31</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 32">
+    <display-name lang="de">blue Sport 32</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 33">
+    <display-name lang="de">blue Sport 33</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 34">
+    <display-name lang="de">blue Sport 34</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 35">
+    <display-name lang="de">blue Sport 35</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 36">
+    <display-name lang="de">blue Sport 36</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 37">
+    <display-name lang="de">blue Sport 37</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 38">
+    <display-name lang="de">blue Sport 38</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 39">
+    <display-name lang="de">blue Sport 39</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 40">
+    <display-name lang="de">blue Sport 40</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Sport 41">
+    <display-name lang="de">blue Sport 41</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Event 1">
+    <display-name lang="de">blue Event 1</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="blue Event 2">
+    <display-name lang="de">blue Event 2</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 2 D">
+    <display-name lang="de">MySports 2 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 3 D">
+    <display-name lang="de">MySports 3 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 4 D">
+    <display-name lang="de">MySports 4 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 5 D">
+    <display-name lang="de">MySports 5 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 6 D">
+    <display-name lang="de">MySports 6 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 7 D">
+    <display-name lang="de">MySports 7 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 8 D">
+    <display-name lang="de">MySports 8 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 9 D">
+    <display-name lang="de">MySports 9 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports Eins">
+    <display-name lang="de">MySports Eins</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 10 D">
+    <display-name lang="de">MySports 10 D</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="SPORT1+">
+    <display-name lang="de">SPORT1+</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports EDGE">
+    <display-name lang="de">MySports EDGE</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 2 F">
+    <display-name lang="de">MySports 2 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 3 F">
+    <display-name lang="de">MySports 3 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 4 F">
+    <display-name lang="de">MySports 4 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 5 F">
+    <display-name lang="de">MySports 5 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 6 F">
+    <display-name lang="de">MySports 6 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 7 F">
+    <display-name lang="de">MySports 7 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 8 F">
+    <display-name lang="de">MySports 8 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports 9 F">
+    <display-name lang="de">MySports 9 F</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="MySports Un">
+    <display-name lang="de">MySports Un</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="Nova Sport 1">
+    <display-name lang="cs">Nova Sport 1</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 2">
+    <display-name lang="cs">Nova Sport 2</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 3">
+    <display-name lang="cs">Nova Sport 3</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Nova Sport 4">
+    <display-name lang="cs">Nova Sport 4</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sport1">
+    <display-name lang="cs">Sport1</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <channel id="Sport2">
+    <display-name lang="cs">Sport2</display-name>
+    <url>http://www.tv.sms.cz.m</url>
+  </channel>
+  <programme start="20231215201500 +0000" stop="20231215210000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Fredagshockey studio</title>
+  </programme>
+  <programme start="20231215210000 +0000" stop="20231215233000 +0000" channel="TV4 Hockey">
+    <title lang="sv">IF Björklöven - BIK Karlskoga</title>
+  </programme>
+  <programme start="20231215233000 +0000" stop="20231216014500 +0000" channel="TV4 Hockey">
+    <title lang="sv">Brynäs IF - Almtuna IS</title>
+  </programme>
+  <programme start="20231216014500 +0000" stop="20231216060000 +0000" channel="TV4 Hockey">
+    <title lang="sv">AIK IF - Östersunds IK</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231215210000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga Show</title>
+  </programme>
+  <programme start="20231215210000 +0000" stop="20231215213000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Vinnare V64</title>
+  </programme>
+  <programme start="20231215213000 +0000" stop="20231215220000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">NBA Action</title>
+  </programme>
+  <programme start="20231215220000 +0000" stop="20231215222500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Sverige springer</title>
+  </programme>
+  <programme start="20231215222500 +0000" stop="20231215225500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga Fans</title>
+  </programme>
+  <programme start="20231215225500 +0000" stop="20231216000000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">C More dokumentär</title>
+  </programme>
+  <programme start="20231216000000 +0000" stop="20231216003000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga Show</title>
+  </programme>
+  <programme start="20231216003000 +0000" stop="20231216030000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">San Antonio Spurs - LA Lakers</title>
+  </programme>
+  <programme start="20231216030000 +0000" stop="20231216080000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216050000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Brynäs IF - Almtuna IS</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">AIK IF - Östersunds IK</title>
+  </programme>
+  <programme start="20231216043000 +0000" stop="20231216123000 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">AIK IF - Östersunds IK</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216083000 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Nybro Vikings IF - Djurgårdens IF</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216083000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Kalmar HC - Södertälje SK</title>
+  </programme>
+  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="V Sport 1">
+    <title lang="sv">Sverige - Schweiz</title>
+  </programme>
+  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="V Sport 1">
+    <title lang="sv">Middlesbrough FC - Hull City</title>
+  </programme>
+  <programme start="20231216000000 +0000" stop="20231216010500 +0000" channel="V Sport 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216010500 +0000" stop="20231216040000 +0000" channel="V Sport 1">
+    <title lang="sv">Dallas Stars - Ottawa Senators</title>
+  </programme>
+  <programme start="20231216040000 +0000" stop="20231216103500 +0000" channel="V Sport 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215191000 +0000" stop="20231215211000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Sverige - Schweiz</title>
+  </programme>
+  <programme start="20231215211000 +0000" stop="20231215221000 +0000" channel="V Sport Vinter">
+    <title lang="sv">NHL On The Fly</title>
+  </programme>
+  <programme start="20231215221000 +0000" stop="20231216000500 +0000" channel="V Sport Vinter">
+    <title lang="sv">Tjeckien - Finland</title>
+  </programme>
+  <programme start="20231216000500 +0000" stop="20231216030500 +0000" channel="V Sport Vinter">
+    <title lang="sv">New York Rangers - Anaheim Ducks</title>
+  </programme>
+  <programme start="20231216030500 +0000" stop="20231216092500 +0000" channel="V Sport Vinter">
+    <title lang="sv">Vegas Golden Knights - Buffalo Sabres</title>
+  </programme>
+  <programme start="20231215200000 +0000" stop="20231215213000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Tusenbröder - Återkomsten</title>
+  </programme>
+  <programme start="20231215213000 +0000" stop="20231215231500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Noll Tolerans</title>
+  </programme>
+  <programme start="20231215231500 +0000" stop="20231216010000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Kronvittnet</title>
+  </programme>
+  <programme start="20231216010000 +0000" stop="20231216024000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Ur marionetternas liv</title>
+  </programme>
+  <programme start="20231216024000 +0000" stop="20231216042000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Att angöra en brygga</title>
+  </programme>
+  <programme start="20231216042000 +0000" stop="20231216045000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Pelle flyttar till Komfusenbo</title>
+  </programme>
+  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Sverige - Schweiz</title>
+  </programme>
+  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Middlesbrough FC - Hull City</title>
+  </programme>
+  <programme start="20231216000000 +0000" stop="20231216010500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216010500 +0000" stop="20231216040000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Dallas Stars - Ottawa Senators</title>
+  </programme>
+  <programme start="20231216040000 +0000" stop="20231216103500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215195500 +0000" stop="20231215233000 +0000" channel="V Sport Ultra HD">
+    <title lang="sv">Nottingham Forest - Tottenham Hotspur FC</title>
+  </programme>
+  <programme start="20231215233000 +0000" stop="20231216073000 +0000" channel="V Sport Ultra HD">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="V Sport Extra">
+    <title lang="sv">Brighton &amp; Hove Albion FC - Olympique Marseille</title>
+  </programme>
+  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="V Sport Extra">
+    <title lang="sv">Sverige - Frankrike</title>
+  </programme>
+  <programme start="20231216000000 +0000" stop="20231216003500 +0000" channel="V Sport Extra">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216003500 +0000" stop="20231216033000 +0000" channel="V Sport Extra">
+    <title lang="sv">New York Islanders - Boston Bruins</title>
+  </programme>
+  <programme start="20231216033000 +0000" stop="20231216113000 +0000" channel="V Sport Extra">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216043000 +0000" stop="20231216121500 +0000" channel="Discovery+ Extra 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216003000 +0000" channel="Discovery+ Extra 2">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216003000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 2">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216043000 +0000" stop="20231216083000 +0000" channel="Discovery+ Extra 2">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216043000 +0000" stop="20231216190000 +0000" channel="Discovery+ Extra 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216041500 +0000" stop="20231216081500 +0000" channel="Discovery+ Extra 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 5">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 5">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216041500 +0000" stop="20231216081500 +0000" channel="Discovery+ Extra 5">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216041500 +0000" stop="20231216101500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215181500 +0000" stop="20231215221500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215221500 +0000" stop="20231216021500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216021500 +0000" stop="20231216061500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231215130000 +0000" stop="20231216010000 +0000" channel="Discovery+ Extra 8">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216010000 +0000" stop="20231216130000 +0000" channel="Discovery+ Extra 8">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+</tv>
