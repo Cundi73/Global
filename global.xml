@@ -400,205 +400,412 @@
     <display-name lang="cs">Sport2</display-name>
     <url>http://www.tv.sms.cz.m</url>
   </channel>
-  <programme start="20231215201500 +0000" stop="20231215210000 +0000" channel="TV4 Hockey">
-    <title lang="sv">Fredagshockey studio</title>
-  </programme>
-  <programme start="20231215210000 +0000" stop="20231215233000 +0000" channel="TV4 Hockey">
-    <title lang="sv">IF Björklöven - BIK Karlskoga</title>
-  </programme>
-  <programme start="20231215233000 +0000" stop="20231216014500 +0000" channel="TV4 Hockey">
+  <programme start="20231216083000 +0000" stop="20231216110000 +0000" channel="TV4 Hockey">
     <title lang="sv">Brynäs IF - Almtuna IS</title>
   </programme>
-  <programme start="20231216014500 +0000" stop="20231216060000 +0000" channel="TV4 Hockey">
+  <programme start="20231216110000 +0000" stop="20231216133000 +0000" channel="TV4 Hockey">
     <title lang="sv">AIK IF - Östersunds IK</title>
   </programme>
-  <programme start="20231215203000 +0000" stop="20231215210000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">LaLiga Show</title>
-  </programme>
-  <programme start="20231215210000 +0000" stop="20231215213000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">Vinnare V64</title>
-  </programme>
-  <programme start="20231215213000 +0000" stop="20231215220000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">NBA Action</title>
-  </programme>
-  <programme start="20231215220000 +0000" stop="20231215222500 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">Sverige springer</title>
-  </programme>
-  <programme start="20231215222500 +0000" stop="20231215225500 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">LaLiga Fans</title>
-  </programme>
-  <programme start="20231215225500 +0000" stop="20231216000000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">C More dokumentär</title>
-  </programme>
-  <programme start="20231216000000 +0000" stop="20231216003000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">LaLiga Show</title>
-  </programme>
-  <programme start="20231216003000 +0000" stop="20231216030000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">San Antonio Spurs - LA Lakers</title>
-  </programme>
-  <programme start="20231216030000 +0000" stop="20231216080000 +0000" channel="TV4 Sportkanalen">
-    <title lang="sv">Höjdpunkter</title>
-  </programme>
-  <programme start="20231215203000 +0000" stop="20231216050000 +0000" channel="TV4 Sport Live 1">
-    <title lang="sv">Brynäs IF - Almtuna IS</title>
-  </programme>
-  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="TV4 Sport Live 2">
-    <title lang="sv">AIK IF - Östersunds IK</title>
-  </programme>
-  <programme start="20231216043000 +0000" stop="20231216123000 +0000" channel="TV4 Sport Live 2">
-    <title lang="sv">AIK IF - Östersunds IK</title>
-  </programme>
-  <programme start="20231215203000 +0000" stop="20231216083000 +0000" channel="TV4 Sport Live 3">
+  <programme start="20231216133000 +0000" stop="20231216160000 +0000" channel="TV4 Hockey">
     <title lang="sv">Nybro Vikings IF - Djurgårdens IF</title>
   </programme>
-  <programme start="20231215203000 +0000" stop="20231216083000 +0000" channel="TV4 Sport Live 4">
+  <programme start="20231216160000 +0000" stop="20231216183000 +0000" channel="TV4 Hockey">
     <title lang="sv">Kalmar HC - Södertälje SK</title>
   </programme>
-  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="V Sport 1">
-    <title lang="sv">Sverige - Schweiz</title>
+  <programme start="20231216183000 +0000" stop="20231216210000 +0000" channel="TV4 Hockey">
+    <title lang="sv">IF Björklöven - BIK Karlskoga</title>
   </programme>
-  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="V Sport 1">
-    <title lang="sv">Middlesbrough FC - Hull City</title>
+  <programme start="20231216210000 +0000" stop="20231216233000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Brynäs IF - Almtuna IS</title>
   </programme>
-  <programme start="20231216000000 +0000" stop="20231216010500 +0000" channel="V Sport 1">
+  <programme start="20231216233000 +0000" stop="20231217014500 +0000" channel="TV4 Hockey">
+    <title lang="sv">AIK IF - Östersunds IK</title>
+  </programme>
+  <programme start="20231217014500 +0000" stop="20231217060000 +0000" channel="TV4 Hockey">
+    <title lang="sv">Kalmar HC - Södertälje SK</title>
+  </programme>
+  <programme start="20231216104000 +0000" stop="20231216110000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231216110000 +0000" stop="20231216113000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga Show</title>
+  </programme>
+  <programme start="20231216113000 +0000" stop="20231216115000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">LaLiga ZAP</title>
+  </programme>
+  <programme start="20231216115000 +0000" stop="20231216125500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">AFC Champions League Highlights Show</title>
+  </programme>
+  <programme start="20231216125500 +0000" stop="20231216145000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Sverige - Marocko</title>
+  </programme>
+  <programme start="20231216145000 +0000" stop="20231216150500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231216150500 +0000" stop="20231216171500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Athletic Bilbao - Atlético Madrid</title>
+  </programme>
+  <programme start="20231216171500 +0000" stop="20231216174500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">NBA Action</title>
+  </programme>
+  <programme start="20231216174500 +0000" stop="20231216175500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231216175500 +0000" stop="20231216210000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Cincinnati Bengals - Minnesota Vikings</title>
+  </programme>
+  <programme start="20231216210000 +0000" stop="20231216212500 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231216212500 +0000" stop="20231217003000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Indianapolis Colts - Pittsburgh Steelers</title>
+  </programme>
+  <programme start="20231217003000 +0000" stop="20231217010000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">NFL GameDay</title>
+  </programme>
+  <programme start="20231217010000 +0000" stop="20231217011000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Höjdpunkter</title>
+  </programme>
+  <programme start="20231217011000 +0000" stop="20231217080000 +0000" channel="TV4 Sportkanalen">
+    <title lang="sv">Detroit Lions - Denver Broncos</title>
+  </programme>
+  <programme start="20231216090000 +0000" stop="20231216125500 +0000" channel="TV4 Sport Live 1">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216010500 +0000" stop="20231216040000 +0000" channel="V Sport 1">
-    <title lang="sv">Dallas Stars - Ottawa Senators</title>
+  <programme start="20231216125500 +0000" stop="20231216151500 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Celta de Vigo - Granada CF</title>
   </programme>
-  <programme start="20231216040000 +0000" stop="20231216103500 +0000" channel="V Sport 1">
+  <programme start="20231216151500 +0000" stop="20231216172500 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Celta de Vigo - Granada CF</title>
+  </programme>
+  <programme start="20231216172500 +0000" stop="20231216194000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Sevilla FC - Getafe CF</title>
+  </programme>
+  <programme start="20231216194000 +0000" stop="20231216230000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Torino FC - Empoli FC</title>
+  </programme>
+  <programme start="20231216230000 +0000" stop="20231217050000 +0000" channel="TV4 Sport Live 1">
+    <title lang="sv">Milwaukee Bucks - Detroit Pistons</title>
+  </programme>
+  <programme start="20231216123000 +0000" stop="20231216182500 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">AIK IF - Östersunds IK</title>
+  </programme>
+  <programme start="20231216182500 +0000" stop="20231216222500 +0000" channel="TV4 Sport Live 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215191000 +0000" stop="20231215211000 +0000" channel="V Sport Vinter">
-    <title lang="sv">Sverige - Schweiz</title>
+  <programme start="20231216222500 +0000" stop="20231217102500 +0000" channel="TV4 Sport Live 2">
+    <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215211000 +0000" stop="20231215221000 +0000" channel="V Sport Vinter">
+  <programme start="20231216083000 +0000" stop="20231216142500 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Nybro Vikings IF - Djurgårdens IF</title>
+  </programme>
+  <programme start="20231216142500 +0000" stop="20231216182500 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216182500 +0000" stop="20231216222500 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216222500 +0000" stop="20231217062500 +0000" channel="TV4 Sport Live 3">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216083000 +0000" stop="20231216123000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216123000 +0000" stop="20231216163000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216163000 +0000" stop="20231216203000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216203000 +0000" stop="20231217003000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217003000 +0000" stop="20231217043000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217043000 +0000" stop="20231217083000 +0000" channel="TV4 Sport Live 4">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216103500 +0000" stop="20231216131500 +0000" channel="V Sport 1">
+    <title lang="sv">Val Gardena, Störtlopp, Herrar</title>
+  </programme>
+  <programme start="20231216131500 +0000" stop="20231216141500 +0000" channel="V Sport 1">
+    <title lang="sv">Trans World Sport</title>
+  </programme>
+  <programme start="20231216141500 +0000" stop="20231216145500 +0000" channel="V Sport 1">
+    <title lang="sv">Championship Highlights</title>
+  </programme>
+  <programme start="20231216145500 +0000" stop="20231216170000 +0000" channel="V Sport 1">
+    <title lang="sv">AFC Bournemouth - Luton Town</title>
+  </programme>
+  <programme start="20231216170000 +0000" stop="20231216172500 +0000" channel="V Sport 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216172500 +0000" stop="20231216191000 +0000" channel="V Sport 1">
+    <title lang="sv">SC Magdeburg - Rhein-Neckar Lowen</title>
+  </programme>
+  <programme start="20231216191000 +0000" stop="20231216200500 +0000" channel="V Sport 1">
+    <title lang="sv">Trans World Sport</title>
+  </programme>
+  <programme start="20231216200500 +0000" stop="20231216220000 +0000" channel="V Sport 1">
+    <title lang="sv">Finland - Sverige</title>
+  </programme>
+  <programme start="20231216220000 +0000" stop="20231217000500 +0000" channel="V Sport 1">
+    <title lang="sv">Schweiz - Tjeckien</title>
+  </programme>
+  <programme start="20231217000500 +0000" stop="20231217030000 +0000" channel="V Sport 1">
+    <title lang="sv">Philadelphia Flyers - Detroit Red Wings</title>
+  </programme>
+  <programme start="20231217030000 +0000" stop="20231217095000 +0000" channel="V Sport 1">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216092500 +0000" stop="20231216113000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Val d'Isere, Störtlopp, Kvinnor</title>
+  </programme>
+  <programme start="20231216113000 +0000" stop="20231216122000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216122000 +0000" stop="20231216140000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Alpe d'Huez, Puckelpist, Herrar, Kvinnor</title>
+  </programme>
+  <programme start="20231216140000 +0000" stop="20231216145500 +0000" channel="V Sport Vinter">
     <title lang="sv">NHL On The Fly</title>
   </programme>
-  <programme start="20231215221000 +0000" stop="20231216000500 +0000" channel="V Sport Vinter">
-    <title lang="sv">Tjeckien - Finland</title>
+  <programme start="20231216145500 +0000" stop="20231216165000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Carolina Hurricanes - Nashville Predators</title>
   </programme>
-  <programme start="20231216000500 +0000" stop="20231216030500 +0000" channel="V Sport Vinter">
-    <title lang="sv">New York Rangers - Anaheim Ducks</title>
+  <programme start="20231216165000 +0000" stop="20231216190500 +0000" channel="V Sport Vinter">
+    <title lang="sv">Copper Mountain, Big Air, Herrar, Kvinnor</title>
   </programme>
-  <programme start="20231216030500 +0000" stop="20231216092500 +0000" channel="V Sport Vinter">
-    <title lang="sv">Vegas Golden Knights - Buffalo Sabres</title>
+  <programme start="20231216190500 +0000" stop="20231216220000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Minnesota Wild - Vancouver Canucks</title>
   </programme>
-  <programme start="20231215200000 +0000" stop="20231215213000 +0000" channel="SF-Kanalen">
-    <title lang="sv">Tusenbröder - Återkomsten</title>
+  <programme start="20231216220000 +0000" stop="20231217000500 +0000" channel="V Sport Vinter">
+    <title lang="sv">Finland - Sverige</title>
   </programme>
-  <programme start="20231215213000 +0000" stop="20231215231500 +0000" channel="SF-Kanalen">
-    <title lang="sv">Noll Tolerans</title>
+  <programme start="20231217000500 +0000" stop="20231217030500 +0000" channel="V Sport Vinter">
+    <title lang="sv">Boston Bruins - New York Rangers</title>
   </programme>
-  <programme start="20231215231500 +0000" stop="20231216010000 +0000" channel="SF-Kanalen">
-    <title lang="sv">Kronvittnet</title>
+  <programme start="20231217030500 +0000" stop="20231217085000 +0000" channel="V Sport Vinter">
+    <title lang="sv">Edmonton Oilers - Florida Panthers</title>
   </programme>
-  <programme start="20231216010000 +0000" stop="20231216024000 +0000" channel="SF-Kanalen">
-    <title lang="sv">Ur marionetternas liv</title>
+  <programme start="20231216093500 +0000" stop="20231216110000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Bäst i Sverige</title>
   </programme>
-  <programme start="20231216024000 +0000" stop="20231216042000 +0000" channel="SF-Kanalen">
-    <title lang="sv">Att angöra en brygga</title>
+  <programme start="20231216110000 +0000" stop="20231216123000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Jönssonligan dyker upp igen</title>
   </programme>
-  <programme start="20231216042000 +0000" stop="20231216045000 +0000" channel="SF-Kanalen">
-    <title lang="sv">Pelle flyttar till Komfusenbo</title>
+  <programme start="20231216123000 +0000" stop="20231216141500 +0000" channel="SF-Kanalen">
+    <title lang="sv">En underbar jävla jul</title>
   </programme>
-  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="Viasat Sport HD">
-    <title lang="sv">Sverige - Schweiz</title>
+  <programme start="20231216141500 +0000" stop="20231216154500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Kill Your Darlings</title>
   </programme>
-  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="Viasat Sport HD">
-    <title lang="sv">Middlesbrough FC - Hull City</title>
+  <programme start="20231216154500 +0000" stop="20231216170000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Krakel Spektakel</title>
   </programme>
-  <programme start="20231216000000 +0000" stop="20231216010500 +0000" channel="Viasat Sport HD">
+  <programme start="20231216170000 +0000" stop="20231216181000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Nils Karlsson Pyssling</title>
+  </programme>
+  <programme start="20231216181000 +0000" stop="20231216200000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Mig äger ingen</title>
+  </programme>
+  <programme start="20231216200000 +0000" stop="20231216220500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Så som i himmelen</title>
+  </programme>
+  <programme start="20231216220500 +0000" stop="20231216235500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Livvakterna</title>
+  </programme>
+  <programme start="20231216235500 +0000" stop="20231217015500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Jack</title>
+  </programme>
+  <programme start="20231217015500 +0000" stop="20231217033500 +0000" channel="SF-Kanalen">
+    <title lang="sv">Smala Sussie</title>
+  </programme>
+  <programme start="20231217033500 +0000" stop="20231217052000 +0000" channel="SF-Kanalen">
+    <title lang="sv">Äppelkriget</title>
+  </programme>
+  <programme start="20231216103500 +0000" stop="20231216131500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Val Gardena, Störtlopp, Herrar</title>
+  </programme>
+  <programme start="20231216131500 +0000" stop="20231216141500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Trans World Sport</title>
+  </programme>
+  <programme start="20231216141500 +0000" stop="20231216145500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Championship Highlights</title>
+  </programme>
+  <programme start="20231216145500 +0000" stop="20231216170000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">AFC Bournemouth - Luton Town</title>
+  </programme>
+  <programme start="20231216170000 +0000" stop="20231216172500 +0000" channel="Viasat Sport HD">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216010500 +0000" stop="20231216040000 +0000" channel="Viasat Sport HD">
-    <title lang="sv">Dallas Stars - Ottawa Senators</title>
+  <programme start="20231216172500 +0000" stop="20231216191000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">SC Magdeburg - Rhein-Neckar Lowen</title>
   </programme>
-  <programme start="20231216040000 +0000" stop="20231216103500 +0000" channel="Viasat Sport HD">
+  <programme start="20231216191000 +0000" stop="20231216200500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Trans World Sport</title>
+  </programme>
+  <programme start="20231216200500 +0000" stop="20231216220000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Finland - Sverige</title>
+  </programme>
+  <programme start="20231216220000 +0000" stop="20231217000500 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Schweiz - Tjeckien</title>
+  </programme>
+  <programme start="20231217000500 +0000" stop="20231217030000 +0000" channel="Viasat Sport HD">
+    <title lang="sv">Philadelphia Flyers - Detroit Red Wings</title>
+  </programme>
+  <programme start="20231217030000 +0000" stop="20231217095000 +0000" channel="Viasat Sport HD">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215195500 +0000" stop="20231215233000 +0000" channel="V Sport Ultra HD">
+  <programme start="20231216090000 +0000" stop="20231216170000 +0000" channel="V Sport Ultra HD">
+    <title lang="sv">RedBull TV</title>
+  </programme>
+  <programme start="20231216170000 +0000" stop="20231216173000 +0000" channel="V Sport Ultra HD">
+    <title lang="sv">RedBull TV</title>
+  </programme>
+  <programme start="20231216173000 +0000" stop="20231216200000 +0000" channel="V Sport Ultra HD">
+    <title lang="sv">Tottenham Hotspur FC - Newcastle United FC</title>
+  </programme>
+  <programme start="20231216200000 +0000" stop="20231216223000 +0000" channel="V Sport Ultra HD">
     <title lang="sv">Nottingham Forest - Tottenham Hotspur FC</title>
   </programme>
-  <programme start="20231215233000 +0000" stop="20231216073000 +0000" channel="V Sport Ultra HD">
+  <programme start="20231216223000 +0000" stop="20231217063000 +0000" channel="V Sport Ultra HD">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215200000 +0000" stop="20231215220000 +0000" channel="V Sport Extra">
-    <title lang="sv">Brighton &amp; Hove Albion FC - Olympique Marseille</title>
+  <programme start="20231216113000 +0000" stop="20231216114500 +0000" channel="V Sport Extra">
+    <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215220000 +0000" stop="20231216000000 +0000" channel="V Sport Extra">
+  <programme start="20231216114500 +0000" stop="20231216134500 +0000" channel="V Sport Extra">
     <title lang="sv">Sverige - Frankrike</title>
   </programme>
-  <programme start="20231216000000 +0000" stop="20231216003500 +0000" channel="V Sport Extra">
-    <title lang="sv">Sändningsuppehåll</title>
+  <programme start="20231216134500 +0000" stop="20231216145500 +0000" channel="V Sport Extra">
+    <title lang="sv">Trans World Sport</title>
   </programme>
-  <programme start="20231216003500 +0000" stop="20231216033000 +0000" channel="V Sport Extra">
+  <programme start="20231216145500 +0000" stop="20231216170000 +0000" channel="V Sport Extra">
+    <title lang="sv">Chelsea FC - Sheffield United FC</title>
+  </programme>
+  <programme start="20231216170000 +0000" stop="20231216180000 +0000" channel="V Sport Extra">
+    <title lang="sv">Trans World Sport</title>
+  </programme>
+  <programme start="20231216180000 +0000" stop="20231216200000 +0000" channel="V Sport Extra">
     <title lang="sv">New York Islanders - Boston Bruins</title>
   </programme>
-  <programme start="20231216033000 +0000" stop="20231216113000 +0000" channel="V Sport Extra">
+  <programme start="20231216200000 +0000" stop="20231216220000 +0000" channel="V Sport Extra">
+    <title lang="sv">Danmark - Norge</title>
+  </programme>
+  <programme start="20231216220000 +0000" stop="20231217000500 +0000" channel="V Sport Extra">
+    <title lang="sv">Sverige - Frankrike</title>
+  </programme>
+  <programme start="20231217000500 +0000" stop="20231217030500 +0000" channel="V Sport Extra">
+    <title lang="sv">Columbus Blue Jackets - New Jersey Devils</title>
+  </programme>
+  <programme start="20231217030500 +0000" stop="20231217090000 +0000" channel="V Sport Extra">
+    <title lang="sv">Calgary Flames - Tampa Bay Lightning</title>
+  </programme>
+  <programme start="20231216121500 +0000" stop="20231216201500 +0000" channel="Discovery+ Extra 1">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 1">
+  <programme start="20231216201500 +0000" stop="20231217083000 +0000" channel="Discovery+ Extra 1">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216043000 +0000" stop="20231216121500 +0000" channel="Discovery+ Extra 1">
+  <programme start="20231216083000 +0000" stop="20231216123000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215203000 +0000" stop="20231216003000 +0000" channel="Discovery+ Extra 2">
+  <programme start="20231216123000 +0000" stop="20231216163000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216003000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 2">
+  <programme start="20231216163000 +0000" stop="20231216203000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216043000 +0000" stop="20231216083000 +0000" channel="Discovery+ Extra 2">
+  <programme start="20231216203000 +0000" stop="20231217003000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215203000 +0000" stop="20231216043000 +0000" channel="Discovery+ Extra 3">
+  <programme start="20231217003000 +0000" stop="20231217043000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216043000 +0000" stop="20231216190000 +0000" channel="Discovery+ Extra 3">
+  <programme start="20231217043000 +0000" stop="20231217070000 +0000" channel="Discovery+ Extra 2">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 4">
+  <programme start="20231216190000 +0000" stop="20231217030000 +0000" channel="Discovery+ Extra 3">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 4">
+  <programme start="20231217030000 +0000" stop="20231217083000 +0000" channel="Discovery+ Extra 3">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216041500 +0000" stop="20231216081500 +0000" channel="Discovery+ Extra 4">
+  <programme start="20231216081500 +0000" stop="20231216121500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 5">
+  <programme start="20231216121500 +0000" stop="20231216161500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 5">
+  <programme start="20231216161500 +0000" stop="20231216201500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216041500 +0000" stop="20231216081500 +0000" channel="Discovery+ Extra 5">
+  <programme start="20231216201500 +0000" stop="20231217001500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215201500 +0000" stop="20231216001500 +0000" channel="Discovery+ Extra 6">
+  <programme start="20231217001500 +0000" stop="20231217041500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216001500 +0000" stop="20231216041500 +0000" channel="Discovery+ Extra 6">
+  <programme start="20231217041500 +0000" stop="20231217061500 +0000" channel="Discovery+ Extra 4">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216041500 +0000" stop="20231216101500 +0000" channel="Discovery+ Extra 6">
+  <programme start="20231216081500 +0000" stop="20231216121500 +0000" channel="Discovery+ Extra 5">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215181500 +0000" stop="20231215221500 +0000" channel="Discovery+ Extra 7">
+  <programme start="20231216121500 +0000" stop="20231216161500 +0000" channel="Discovery+ Extra 5">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215221500 +0000" stop="20231216021500 +0000" channel="Discovery+ Extra 7">
+  <programme start="20231216161500 +0000" stop="20231216201500 +0000" channel="Discovery+ Extra 5">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216021500 +0000" stop="20231216061500 +0000" channel="Discovery+ Extra 7">
+  <programme start="20231216201500 +0000" stop="20231217001500 +0000" channel="Discovery+ Extra 5">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231215130000 +0000" stop="20231216010000 +0000" channel="Discovery+ Extra 8">
+  <programme start="20231217001500 +0000" stop="20231217041500 +0000" channel="Discovery+ Extra 5">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
-  <programme start="20231216010000 +0000" stop="20231216130000 +0000" channel="Discovery+ Extra 8">
+  <programme start="20231217041500 +0000" stop="20231217081500 +0000" channel="Discovery+ Extra 5">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216101500 +0000" stop="20231216141500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216141500 +0000" stop="20231216181500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216181500 +0000" stop="20231216221500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216221500 +0000" stop="20231217021500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217021500 +0000" stop="20231217041500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217041500 +0000" stop="20231217081500 +0000" channel="Discovery+ Extra 6">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216101500 +0000" stop="20231216141500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216141500 +0000" stop="20231216181500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216181500 +0000" stop="20231216221500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216221500 +0000" stop="20231217021500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217021500 +0000" stop="20231217081500 +0000" channel="Discovery+ Extra 7">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231216130000 +0000" stop="20231217010000 +0000" channel="Discovery+ Extra 8">
+    <title lang="sv">Sändningsuppehåll</title>
+  </programme>
+  <programme start="20231217010000 +0000" stop="20231217061500 +0000" channel="Discovery+ Extra 8">
     <title lang="sv">Sändningsuppehåll</title>
   </programme>
 </tv>
